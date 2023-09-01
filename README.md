@@ -1,4 +1,4 @@
-### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
+### Hi there, I'm [Zine](https://zinelabidiin.github.io) 👋
 
 I am a third year Machine Learning Ph.D. candidate . Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and wellbeing) and contributing to open source.
 
@@ -51,8 +51,8 @@ I am a third year Machine Learning Ph.D. candidate . Apart from that I am season
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](kaggle.com/
-ZineElAbidiine)
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />]([kaggle.com/
+zineelabidiine](https://www.kaggle.com/zineelabidiine))
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">]([[[https://durgeshsamariya.github.io](https://images.credly.com/size/340x340/images/6326ee99-6a06-45a1-9140-00fa6b6c86c0/blob.png)](https://images.credly.com/size/340x340/images/6326ee99-6a06-45a1-9140-00fa6b6c86c0/blob.png)](https://images.credly.com/size/340x340/images/6326ee99-6a06-45a1-9140-00fa6b6c86c0/blob.png))
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/zine-el-abidine-e-8602b2179/)
