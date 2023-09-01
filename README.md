@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Zinelabidiin/MyZv/blob/main/photo_2022-05-15_11-00-38.jpg">
+    <img width="200" src="https://images.credly.com/size/340x340/images/6326ee99-6a06-45a1-9140-00fa6b6c86c0/blob.png">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://github.com/Zinelabidiin/MyZv/blob/main/photo_2022-05-15_11-00-38.jpg" width = 30px> </h1>
