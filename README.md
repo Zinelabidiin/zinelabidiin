@@ -1,4 +1,4 @@
-### Hi there, I'm [Zine](https://zinelabidiin.github.io) 👋
+### Hi there, I'm [Zine](https://zinelabidiin.github.io/zv) 👋
 
 I am a third year Machine Learning Ph.D. candidate . Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and wellbeing) and contributing to open source.
 
@@ -51,9 +51,8 @@ I am a third year Machine Learning Ph.D. candidate . Apart from that I am season
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />]([kaggle.com/
-zineelabidiine](https://www.kaggle.com/zineelabidiine))
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">]([[[https://durgeshsamariya.github.io](https://images.credly.com/size/340x340/images/6326ee99-6a06-45a1-9140-00fa6b6c86c0/blob.png)](https://images.credly.com/size/340x340/images/6326ee99-6a06-45a1-9140-00fa6b6c86c0/blob.png)](https://images.credly.com/size/340x340/images/6326ee99-6a06-45a1-9140-00fa6b6c86c0/blob.png))
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/zineelabidiine)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">]([[[https://zinelabidiin.io/zv](https://images.credly.com/size/340x340/images/6326ee99-6a06-45a1-9140-00fa6b6c86c0/blob.png)](https://images.credly.com/size/340x340/images/6326ee99-6a06-45a1-9140-00fa6b6c86c0/blob.png)](https://images.credly.com/size/340x340/images/6326ee99-6a06-45a1-9140-00fa6b6c86c0/blob.png))
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/zine-el-abidine-e-8602b2179/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com)
@@ -62,13 +61,13 @@ zineelabidiine](https://www.kaggle.com/zineelabidiine))
 
 
 
-<!-- 
+ 
 ----
 [<img src="https://github-profile-trophy.vercel.app/?username=zinelabidiin&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 [<img src="https://github-readme-stats.vercel.app/api?username=zinelabidiin&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
+[![Zine's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
