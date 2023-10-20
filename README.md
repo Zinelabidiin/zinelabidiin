@@ -1,6 +1,6 @@
 ### Hi there, I'm [Zine](https://zinelabidiin.github.io/zv) 👋
 
-I am a third year Machine Learning Ph.D. candidate . Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity & wellbeing) and contributing to open source.
+ I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity & wellbeing) and contributing to open source.
 
 **My Reseach Interest**:
 - Outlying Aspect Mining
