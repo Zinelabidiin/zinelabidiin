@@ -35,12 +35,6 @@
 <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
 
-#### IDEs
-
-
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-
 
 ## Connect with me:
 
@@ -69,7 +63,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine learning
-- 🌱 I’m currently learning flutter for android
+- 🌱 I’m currently learning .NET for webapps
 - 👯 I’m looking to collaborate on machine learning and automation
 
 
