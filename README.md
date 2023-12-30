@@ -1,20 +1,10 @@
 ### Hi there, I'm [Zine](https://zinelabidiin.github.io/zv) 👋
 
- I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity & wellbeing) and contributing to open source.
+Welcome to my profile! As a dedicated professional, I take pride in providing the best services to my clients. With a focus on delivering excellence, I ensure that each project is handled with utmost care and attention to detail. My goal is to offer quick and efficient solutions that meet and exceed your expectations.
 
-**My Reseach Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
+When you choose to work with me, you can expect:
 
- **I am open to**:
-
-- Collobration startup in medicine and mental health
-  -guide your next breakthrough towards yourly goals
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
-
-## Skills:
+Unparalleled Quality I have honed my skills through years of experience and constantly stay updated with the latest design trends and industry standards. I bring a high level of expertise to every project, ensuring quality
 
 #### Languages:
 
